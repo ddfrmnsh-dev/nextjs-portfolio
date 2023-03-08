@@ -1,0 +1,29 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "project": "Web Eccommerce",
+      "description": "Membuat website e-commerce untuk UMKM Kecamatan Pinang Kota Tangerang",
+      "tools": ["Wordpress", "Xampp", "Hosting"]
+    },
+    {
+      "id": 2,
+      "project": "Web SWYC",
+      "description": "Membuat webiste untuk pengaduang kekerasan seksual di kampus Universitas Budi Luhur",
+      "tools": ["Wordpress", "Xampp", "Hosting"]
+    },
+    {
+      "id": 3,
+      "project": "SPK Alfa Library",
+      "description": "Membuat website berbasis SPK untuk pemilihan buku digital dalam pengadaan Alfa Library",
+      "tools": ["Codeigniter 3", "Xampp", "Hosting"]
+    }
+  ],
+
+  "client": [
+    {
+      "id": 1,
+      "nama": "SWYC"
+    }
+  ]
+}
